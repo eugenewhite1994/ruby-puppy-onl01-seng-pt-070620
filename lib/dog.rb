@@ -1,2 +1,3 @@
 class Dog 
-  attr_reader : 
+  attr_reader : name 
+  
